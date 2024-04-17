@@ -13,7 +13,7 @@ Check out my latest content [here](https://productdock.com/?s=danijel+dragicevic
 ## ⭐️ GitHub Stats
 <p align="center">
   <a href="https://github.com/danijeldragicevic">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danijeldragicevic&theme=prussian&count_private=true&show_icons=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danijeldragicevic&theme=prussian&layout=compact&langs_count=6"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danijeldragicevic&theme=prussian&count_private=true&show_icons=true&include_all_commits=true" /> -->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danijeldragicevic&theme=prussian&layout=compact&langs_count=6" />
   </a>
 </p>
