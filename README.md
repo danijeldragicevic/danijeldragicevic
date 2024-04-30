@@ -7,7 +7,7 @@ I've been working in the IT industry for more than ten years. For the last five 
 ## 👇 Follow me
 <a href="https://www.linkedin.com/in/danijeldragicevic/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-## 📝 Latest Content
+## 📝 Published blog posts
 - [ProductDock blogs](https://productdock.com/?s=danijel+dragicevic). <pr>
 - [codecentric blogs](https://www.codecentric.de/wissens-hub/blog/compose-your-business-platform-using-the-api-led-connectivity-approach)
 
