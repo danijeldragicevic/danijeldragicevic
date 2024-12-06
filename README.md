@@ -1,5 +1,5 @@
 # Hi, I'm Dane! 👋
-Developer, content creator, and mentor with over a decade in IT. Passionate about building innovative integrations with the Anypoint Platform. Currently exploring cloud and DevOps technologies.
+Welcome to my GitHub page! Feel free to explore and contribute. All the code is open source and shared under the Apache 2.0 license.
 
 ## 👇 Follow me
 <a href="https://www.linkedin.com/in/danijeldragicevic/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
