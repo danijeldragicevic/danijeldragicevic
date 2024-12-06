@@ -1,5 +1,5 @@
 # Hi, I'm Dane! 👋
-Welcome to my GitHub page! Feel free to explore and contribute. All the code is open source and shared under the Apache 2.0 license.
+Welcome to my GitHub page! Feel free to explore or contribute. All the code is open source and shared under the Apache 2.0 license.
 
 ## 👇 Let’s connect!
 <a href="https://www.linkedin.com/in/danijeldragicevic/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
