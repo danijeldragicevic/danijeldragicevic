@@ -4,9 +4,9 @@ Welcome to my GitHub page! Feel free to explore and contribute. All the code is 
 ## 👇 Let’s connect!
 <a href="https://www.linkedin.com/in/danijeldragicevic/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-## 📝 Published blog posts
-- [ProductDock blogs](https://productdock.com/?s=danijel+dragicevic). <pr>
-- [codecentric blogs](https://www.codecentric.de/wissens-hub/blog/compose-your-business-platform-using-the-api-led-connectivity-approach)
+## 📝 Published blogs:
+- [productdock.com](https://productdock.com/?s=danijel+dragicevic). <pr>
+- [codecentric.de](https://www.codecentric.de/wissens-hub/blog/compose-your-business-platform-using-the-api-led-connectivity-approach)
 
 ## ⭐️ GitHub Stats
 <p align="center">
