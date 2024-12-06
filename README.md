@@ -1,5 +1,5 @@
 # Hi, I'm Dane! 👋
-Developer, content creator, and mentor with over a decade in IT. Passionate about creating innovative integrations and exploring cloud and DevOps technologies.
+Developer, content creator, and mentor with over a decade in IT. Passionate about building innovative integrations with the Anypoint Platform. Currently exploring cloud and DevOps technologies.
 
 ## 👇 Follow me
 <a href="https://www.linkedin.com/in/danijeldragicevic/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
