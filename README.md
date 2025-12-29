@@ -4,10 +4,13 @@ Welcome to my GitHub page! Feel free to explore the projects, if something catch
 ## 👇 Feel free to reach out!
 <a href="https://www.linkedin.com/in/danijeldragicevic/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-## ⭐️ GitHub Stats
-<p align="center">
-  <a href="https://github.com/danijeldragicevic">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danijeldragicevic&count_private=true&show_icons=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danijeldragicevic&layout=compact&langs_count=6&hide=html,css,javascript"/>
-  </a>
+## ⭐️ Tech stack
+<p>
+  <!-- Core stack -->
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /></code>
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" /></code>
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /></code>
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /></code>
+  <!-- API specs -->
+  <code><img height="20" src="https://api.iconify.design/logos/openapi-icon.svg" alt="OpenAPI" /></code>
 </p>
