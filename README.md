@@ -5,10 +5,8 @@ Welcome to my GitHub page! Feel free to explore the projects, if something catch
 <p>
   <!-- Languages -->
   <a title="Java" href="https://www.java.com/"><img alt="Java" height="32" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></a>
-  <a title="TypeScript" href="https://www.typescriptlang.org/"><img alt="TypeScript" height="32" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
   <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" height="32" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
   <a title="DataWeave" href="https://docs.mulesoft.com/dataweave/latest/"><img alt="DataWeave" height="32" src="https://img.shields.io/badge/DataWeave-00A1E0?style=flat&logo=mulesoft&logoColor=white"></a>
-  <a title="Bash" href="https://www.gnu.org/software/bash/"><img alt="Bash" height="32" src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white"></a>
   <!-- Separator -->
   <span aria-hidden="true">&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <!-- API specs -->
